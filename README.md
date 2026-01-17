@@ -1,3 +1,3 @@
 # Fake_news_detection
 
-Fake Detection Using DistilBERT
+Fake News Detection Using DistilBERT
